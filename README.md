@@ -1,10 +1,10 @@
 # my-notes
 #### Introduction
 _i'm_  **_Ashar almomani_**   _i'm 22 years old , i'm fresh graduated from jordan university of science and technology in computer engineering domian ,i learned from my stdy over a scientific things how to work under pressure and how to mangement the time and priorities ._
-**_my lovely hoppies_** 
-1.playing music 
-2.swimming 
-3.watching old syrian series 
+###**_my lovely hoppies_** 
+1._playing music_ 
+2._swimming_ 
+3._watching old syrian series_ 
 
 #### Good Devoloper Mindset  [click here](https://www.freecodecamp.org/news/learn-the-fundamentals-of-a-good-developer-mindset-in-15-minutes-81321ab8a682/) 
 
